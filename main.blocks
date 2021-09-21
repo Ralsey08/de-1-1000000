@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id=",7S!6KoBT%wXGsPG03}E" x="-186" y="-197"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="UzzM$QY7o?82jzEcNu3-"><value name="text"><shadow type="text"><field name="TEXT">Hello!</field></shadow><block type="device_random" id="e(_)$k9I_#*JUj0uDvbr"><value name="min"><shadow type="math_number" id="1/}t0N*89vB2s2vAuZ`#"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id=")f5`%xyZP^uRX%0{[9bT"><field name="NUM">12</field></shadow></value></block></value><next><block type="device_pause" id="^a=Sf#5SsoCNT`But;l8"><value name="pause"><shadow type="timePicker" id=")6}oi#=Ozzob1xIV.M56"><field name="ms">5000</field></shadow></value><next><block type="device_show_leds" id="}!Ore{G?)C*T*dn5QD6:"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block><block type="device_gesture_event" id="4KXmM!J2dzO%dB:1*TG$" x="308" y="-217"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_print_message" id="hv*{4{tVw}XgdJ1i]|CU"><value name="text"><shadow type="text" disabled="true"><field name="TEXT">Hello!</field></shadow><block type="device_random" id="l2MT5X)ocBk}s/FS-[H}"><value name="min"><shadow type="math_number" id="hrY.G-x9WWsLwifRd*[b"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="|e[FZ(a:7!|CMVT0?;#p"><field name="NUM">6</field></shadow></value></block></value><next><block type="device_pause" id="=-W:J@~!_aEiUwY18]ar"><value name="pause"><shadow type="timePicker" id="ndM5OCiJ;=dTPFkN?hIN"><field name="ms">5000</field></shadow></value><next><block type="device_show_leds" id="l5)4D6qYj#Im=^1U}wt1"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block><block type="device_button_event" id="+,lwg6_Vkddjj,n:ZT51" x="-160" y="210"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="@ViFk{O}*(J|F|pN5gi0"><value name="text"><shadow type="text"><field name="TEXT">Hello!</field></shadow><block type="device_random" id="1wRc^$T-`AfL^FFla@r="><value name="min"><shadow type="math_number" id="LF{7a$Kj2Mys5t?|VsLN"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="8|x?yz!uA8lSx3HT6Lkl"><field name="NUM">20</field></shadow></value></block></value><next><block type="device_pause" id="E)Z:))5t5DPkq[ePsDBm"><value name="pause"><shadow type="timePicker" id="XxN8CtEw7q%erHCB5rwQ"><field name="ms">5000</field></shadow></value><next><block type="device_show_leds" id="R;G*UFJMyVe%@wt)1p}W"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block><block type="device_button_event" id="d-%Vh^SoytAh_vg]-XQB" x="97" y="342"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_print_message" id="2Iv6Y7)ce4G`,5*n_MXf"><value name="text"><shadow type="text"><field name="TEXT">Hello!</field></shadow><block type="device_random" id="bJP#*cK#CMOA~(MGR$5n"><value name="min"><shadow type="math_number" id="caWqQr7dsl?%y03ku.=m"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="1V^ry#_~)d!n!@b|0IK}"><field name="NUM">1000000</field></shadow></value></block></value><next><block type="device_pause" id="c=(yx}A=(b0D~-.ylrfl"><value name="pause"><shadow type="timePicker" id="o@O|.o!`4M^MgZcALeAq"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="#J/1$Qg%xUa5A9dXr*Pu"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block></xml>
